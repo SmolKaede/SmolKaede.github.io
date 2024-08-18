@@ -1,10 +1,10 @@
 # Site Specific Configuration
-name: LightSpeed
-description: A simple Jekyll theme
-url: https://example.com
+name: Akacloud
+description: A Personal Site
+url: https://akacloud.tech
 author: tajacks
-timezone: America/Toronto
-timezone_short: ET
+timezone: America/Chicago
+timezone_short: CST
 
 # Keywords
 keywords: ['seo', 'key', 'words']
